@@ -1,1 +1,1 @@
-install.packages(c("Hmisc", "performance", "tidyverse"))
+install.packages(c("Hmisc", "performance", "ggplot2", "dplyr", "readr"))
